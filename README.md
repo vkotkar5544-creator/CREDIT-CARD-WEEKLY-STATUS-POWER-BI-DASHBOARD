@@ -1,8 +1,6 @@
 # CREDIT-CARD-WEEKLY-STATUS-POWER-BI-DASHBOARD
 ## Situation: To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyse credit card operations effectively.
 
-## Task: Develop an interactive dashboard.
-
 ## Action: 
 ## ✅ Integrated SQL-based transactional and customer datasets
 ## ⚙️ Streamlined data processing and transformation for efficient analytics
